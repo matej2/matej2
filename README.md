@@ -1,9 +1,18 @@
-- 👋 Hi, I’m @matej2
-- 👀 I’m interested in backend, web design and Raspberry PI
-- 🌱 I’m currently learning AI and Salesforce
-- 💞️ I’m looking to collaborate on Salesforce, Reddit bots or any software that runs on Raspberry pi
+### Hi there 👋 I'm Matej, a passionate Software Engineer specializing in backend development and cloud-based solutions.
 
-<!---
-matej2/matej2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### 🛠️ Technologies & Tools
+- **Backend Development**: Java, Spring Boot, RESTful APIs, Microservices
+- **Cloud & DevOps**: AWS, Kubernetes, Docker, Jenkins, Ansible, GitLab CI/CD
+- **Databases**: MySQL, MongoDB
+- **Messaging Systems**: RabbitMQ, Kafka
+- **Monitoring & Logging**: ELK Stack (Elasticsearch, Logstash, Kibana)
+- **Security**: OpenID, OAuth, ZAP, Coverity
+
+#### 🌱 What I'm Currently Learning
+- Exploring advanced Kubernetes orchestration techniques.  
+- Deepening my knowledge of event-driven architectures with Kafka.  
+- Enhancing my skills in cloud-native development and serverless computing.
+
+#### 📫 Let's Connect!
+
+[Linkedin profile](https://www.linkedin.com/in/matejjurko/)  
