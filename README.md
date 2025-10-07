@@ -2,7 +2,7 @@
 
 #### 🛠️ Technologies & Tools
 - **Backend Development**: Java, Spring Boot, RESTful APIs, Microservices
-- **Cloud & DevOps**: AWS, Kubernetes, Docker, Jenkins, Ansible, GitLab CI/CD
+- **Cloud & DevOps**: Kubernetes, Docker, Jenkins, GitLab CI/CD
 - **Databases**: MySQL, MongoDB
 - **Messaging Systems**: RabbitMQ, Kafka
 - **Monitoring & Logging**: ELK Stack (Elasticsearch, Logstash, Kibana)
@@ -10,7 +10,7 @@
 
 #### 🌱 What I'm Currently Learning
 - Exploring advanced Kubernetes orchestration techniques.  
-- Deepening my knowledge of event-driven architectures with Kafka.  
+- Deepening my knowledge of messaging systems.  
 - Enhancing my skills in cloud-native development and serverless computing.
 
 #### 📫 Let's Connect!
